@@ -43,6 +43,7 @@ public class TestCalculate {
 
 	@Before
 	public void setUp() throws Exception {
+		
 	}
 
 	@Test
